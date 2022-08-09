@@ -1,5 +1,10 @@
 # CODEnter_mmdet
 ### MMDetection 출처 : https://github.com/open-mmlab/mmdetection.git
+--------------
+2022/08/09
+configs/_base_/ 경로에 use_configs 폴더 생성함
+- 시험해볼 모델에 따라 변경한 config 내용을 저장하고자 함
+--------------
 ![IMG_KEEP_1659880589](https://user-images.githubusercontent.com/95558633/183294490-26666b91-d254-4659-b668-2bd39836fbf9.jpg)
 #
 # 2가지 Train 방법
