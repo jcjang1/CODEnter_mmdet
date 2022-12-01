@@ -1,5 +1,6 @@
 # CODEnter_mmdet - Car Damaged Detection
-<br>MMDetection 출처 : https://github.com/open-mmlab/mmdetection.git
+--------------
+MMDetection 출처 : https://github.com/open-mmlab/mmdetection.git
 --------------
 2022/08/09
 configs/_base_/ 경로에 use_configs 폴더 생성함
