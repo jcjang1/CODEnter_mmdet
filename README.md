@@ -1,4 +1,4 @@
-# CODEnter_mmdet - Car Damaged Detection
+# CODEnter_mmdet <br> - Car Damaged Detection mmdetection tutorial
 --------------
 MMDetection 출처 : https://github.com/open-mmlab/mmdetection.git
 --------------
